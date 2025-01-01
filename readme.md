@@ -22,6 +22,3 @@ A simple web application to track personal finances using local storage. Users c
 4. View your transaction list below the form.
 5. Check the circular progress bars to see your financial goals, total income, and expenses.
 6. Click "Clear Data" to reset the application.
-
-## License
-This project is open-source and available for anyone to use and modify.
